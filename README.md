@@ -14,7 +14,7 @@
 | <img src="./test/FMCW_1/overshot.png" height=150> | <img src="./test/FMCW_1/0.png" height=100> | <img src="./test/FMCW_1/1.png" height=100> | <img src="./test/FMCW_1/2.png" height=100> | <img src="./test/FMCW_1/3.png" height=100> | <img src="./test/FMCW_1/4.png" height=100> | <img src="./test/FMCW_1/5.png" height=100> | <img src="./test/FMCW_1/6.png" height=100> | <img src="./test/FMCW_1/7.png" height=100> | <img src="./test/FMCW_1/8.png" height=100> | <img src="./test/FMCW_1/9.png" height=100> |
 | <img src="./test/FMCW_2/overshot.png" height=150> | <img src="./test/FMCW_2/0.png" height=100> | <img src="./test/FMCW_2/1.png" height=100> | <img src="./test/FMCW_2/2.png" height=100> | <img src="./test/FMCW_2/3.png" height=100> | <img src="./test/FMCW_2/4.png" height=100> | <img src="./test/FMCW_2/5.png" height=100> | <img src="./test/FMCW_2/6.png" height=100> | <img src="./test/FMCW_2/7.png" height=100> | <img src="./test/FMCW_2/8.png" height=100> | <img src="./test/FMCW_2/9.png" height=100> |
 
-**Note: Star icon <img src="./test/AP.png" height=20> in overshot images represents the AP. it shows 10 different FMCW frequencies.**
+**※ Note: Star icon <img src="./test/AP.png" height=20> in overshot images represents the AP. it shows 10 different FMCW frequencies.**
 
 ## RF Video
 
@@ -39,4 +39,6 @@
 
 ### 3) Office
 ![Image 3](./test/real/real_scenario_3_fix.png)
-**Note: Measurements were performed on the white box area.**
+
+**※ Note: Measurements were performed on the white box area.**
+
