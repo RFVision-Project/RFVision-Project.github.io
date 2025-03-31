@@ -18,15 +18,10 @@
 
 ## RF Video
 
-| <img src="./test/video/0.gif" height="100"> | <img src="./test/video/1.gif" height="100"> |
-|:-------------------------------------------:|---------------------------------------------|
-| <img src="./test/video/2.gif" height="100"> | <img src="./test/video/3.gif" height="100"> |
+| <img src="./test/video/0.gif" height="100"> | <img src="./test/video/1.gif" height="100"> |  <img src="./test/video/h1.gif" height="100"> | <img src="./test/video/h2.gif" height="100"> |
+|:-------------------------------------------:|---------------------------------------------|:-------------------------------------------:|---------------------------------------------|
+| <img src="./test/video/2.gif" height="100"> | <img src="./test/video/3.gif" height="100"> | <img src="./test/video/h3.gif" height="100"> | <img src="./test/video/h4.gif" height="100"> |
 
-## Human Movement
-
-| <img src="./test/video/h1.gif" height="100"> | <img src="./test/video/h2.gif" height="100"> |
-|:--------------------------------------------:|----------------------------------------------|
-| <img src="./test/video/h3.gif" height="100"> | <img src="./test/video/h4.gif" height="100"> |
 
 
 ## Real Experiment
