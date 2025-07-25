@@ -27,13 +27,13 @@
 ## Real Experiment
 
 ### 1) Conference Room
-![Image 1](./test/real/real_scenario_1_fix.png)
+![Image 1](./test/real/real_scenario_1_fix_nerf.png)
 
 ### 2) Apartment
-![Image 2](./test/real/real_scenario_2_fix.png)
+![Image 2](./test/real/real_scenario_2_fix_nerf.png)
 
 ### 3) Office
-![Image 3](./test/real/real_scenario_3_fix.png)
+![Image 3](./test/real/real_scenario_3_fix_nerf.png)
 
 **※ Note: Measurements were performed on the white box area.**
 
