@@ -1,15 +1,24 @@
+<link rel="stylesheet" href="static/css/fontawesome.all.min.css">
+
 <div align="center">
 
-# Diffusion²: Turning 3D Environments into Radio Freqneucny Heatmaps
 
-<!-- GitHub Icon Link -->
-<a href="https://github.com/kyoungjunpark/Diffusion2" target="_blank">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" style="vertical-align: middle; margin-right: 10px;">
-</a>
+# Diffusion²: Turning 3D Environments into Radio Frequency Heatmaps
+
+<!-- GitHub Button -->
+<span class="link-block">
+  <a href="https://github.com/kyoungjunpark/Diffusion2" target="_blank"
+     class="external-link button is-normal is-rounded is-dark">
+    <span class="icon" style="vertical-align: middle; margin-right: 6px;">
+      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="24" alt="GitHub"/>
+    </span>
+    <span style="vertical-align: middle; font-weight: bold;">View Code</span>
+
+  </a>
+</span>
 
 </div>
 
----
 
 ## Overview
 
