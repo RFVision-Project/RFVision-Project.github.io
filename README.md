@@ -1,9 +1,8 @@
 <link rel="stylesheet" href="static/css/fontawesome.all.min.css">
 
-<div align="center">
-
-
 # Diffusion²: Turning 3D Environments into Radio Frequency Heatmaps
+
+<div align="center">
 
 <!-- GitHub Button -->
 <span class="link-block">
