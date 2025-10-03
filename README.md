@@ -14,6 +14,14 @@
     <span style="vertical-align: middle; font-weight: bold;">View Code</span>
 
   </a>
+    <!-- ArXiv button -->
+  <a href="https://arxiv.org/abs/2510.02274" target="_blank"
+     class="external-link button is-normal is-rounded is-dark" style="margin-left: 10px;">
+    <span class="icon" style="vertical-align: middle; margin-right: 6px;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/ArXiv_logo_2022.png" width="40" alt="arXiv"/>
+    </span>
+    <span style="vertical-align: middle; font-weight: bold;">View Paper</span>
+  </a>
 </span>
 
 </div>
