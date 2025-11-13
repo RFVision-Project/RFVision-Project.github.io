@@ -1,10 +1,9 @@
 <link rel="stylesheet" href="static/css/fontawesome.all.min.css">
 
 # Diffusion²: Turning 3D Environments into Radio Frequency Heatmaps
-
+<!--
 <div align="center">
 
-<!-- GitHub Button -->
 <span class="link-block">
   <a href="https://github.com/kyoungjunpark/Diffusion2" target="_blank"
      class="external-link button is-normal is-rounded is-dark">
@@ -14,7 +13,6 @@
     <span style="vertical-align: middle; font-weight: bold;">View Code</span>
 
   </a>
-    <!-- ArXiv button -->
   <a href="https://arxiv.org/abs/2510.02274" target="_blank"
      class="external-link button is-normal is-rounded is-dark" style="margin-left: 10px;">
     <span class="icon" style="vertical-align: middle; margin-right: 6px;">
@@ -25,7 +23,7 @@
 </span>
 
 </div>
-
+-->
 
 ## Overview
 
